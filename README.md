@@ -1,2 +1,3 @@
 # webpack-babel-practice
-https://babeljs.io/
+https://babeljs.io/  
+babel学習用リポジトリ
